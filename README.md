@@ -161,10 +161,10 @@ Three classification models were trained to predict `is_high_value` (transaction
 
 ## 👤 Author
 
-**[Your Name Here]**
-- 📧 [your.email@example.com]
-- 🔗 [LinkedIn Profile]
-- 🐙 [GitHub Profile]
+**Harshvardhan Paradkar**
+- 📧 paradkarharshv@gmail.com
+- 🔗 www.linkedin.com/in/harshvardhan-paradkar-2213bb2b6
+- 🐙 [[GitHub Profile]](https://github.com/paradkarharsh)
 
 ---
 
