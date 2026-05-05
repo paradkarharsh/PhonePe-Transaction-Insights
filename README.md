@@ -33,7 +33,7 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 ```
 PhonePe-ML-Project/
 │
-├── PhonePe_ML_Submission.ipynb   # Main notebook (EDA + ML)
+├── PhonePe_ML.ipynb               # Main notebook (EDA + ML)
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
 │
